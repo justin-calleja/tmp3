@@ -1,0 +1,8 @@
+{
+  "name": "mono",
+  "workspaces": [
+    "client",
+    "server",
+    "apps/*"
+  ]
+}

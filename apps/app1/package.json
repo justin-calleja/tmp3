@@ -1,0 +1,7 @@
+{
+  "name": "@myapp/utility",
+  "exports": {
+    "require": "./index.cjs.js",
+    "import": "./index.js"
+  }
+}
